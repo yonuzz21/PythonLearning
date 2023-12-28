@@ -1,7 +1,9 @@
 import random
 
-"""For the code to work you must choose a text file path to generate the addresses at line 13."""
-"""You can also adjust the number of addresses at line 9."""
+"""
+For the code to work you must choose a text file path to generate the addresses at line 13.
+You can also adjust the number of addresses at line 9.
+"""
 
 elem = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", 
         "A", "B", "C", "D", "E", "F",]
