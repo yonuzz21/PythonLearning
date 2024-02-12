@@ -1,7 +1,7 @@
 import random
 
 """
-For the code to work you must choose a text file path to generate the addresses at line 13.
+For the code to work you must choose a text file path to generate the addresses at line 17.
 You can also adjust the number of addresses at line 12.
 """
 
